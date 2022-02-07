@@ -1,0 +1,8 @@
+{
+    "css.hover.references": false,
+    "css.hover.documentation": false,
+    "html.hover.documentation": false,
+    "less.hover.references": false,
+    "html.hover.references": false,
+    "workbench.tips.enabled": false
+}
